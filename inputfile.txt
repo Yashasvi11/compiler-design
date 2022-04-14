@@ -1,0 +1,10 @@
+    public interface nameofinterface  {
+    public  int functionname(int q ,float h);
+    
+    /*multilime comment*/
+    
+ 
+   
+}
+
+/*hjdgha*/
